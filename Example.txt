@@ -7,9 +7,6 @@ how r u angel
 Im fine
 okay
 take care angel
-<<<<<<< HEAD
 congrats angel!
-=======
-
 thanks
->>>>>>> refs/remotes/origin/master
+
