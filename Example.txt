@@ -1,5 +1,6 @@
 This is our first exercise on Git hub
 This is my first change in example.txt file
 This is my second change in this file
+Dont ever try to change my code
+ANGEL IS A GOOD GIRL
 
-angel is a good girl
