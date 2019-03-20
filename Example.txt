@@ -5,5 +5,11 @@ Dont ever try to change my code
 ANGEL IS A GOOD GIRL
 how r u angel
 Im fine
+okay
 take care angel
+<<<<<<< HEAD
 congrats angel!
+=======
+
+thanks
+>>>>>>> refs/remotes/origin/master
