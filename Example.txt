@@ -7,6 +7,13 @@ how r u angel
 Im fine
 okay
 take care angel
+<<<<<<< HEAD
 Thanks
 
 Hii good morning
+=======
+congrats angel!
+thanks
+
+hiiiiii
+>>>>>>> refs/remotes/origin/master
